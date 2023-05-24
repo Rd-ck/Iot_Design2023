@@ -1,0 +1,4 @@
+../Core/Src/Si24R1.c:9:6:Tx_Init	8	static
+../Core/Src/Si24R1.c:16:6:Rx_Init	16	static
+../Core/Src/Si24R1.c:24:9:Rx_loop	24	static
+../Core/Src/Si24R1.c:43:9:Tx_loop	24	static

@@ -1,0 +1,2 @@
+../Core/Src/my_delay.c:3:6:my_delayus	32	static
+../Core/Src/my_delay.c:32:6:my_delayms	16	static

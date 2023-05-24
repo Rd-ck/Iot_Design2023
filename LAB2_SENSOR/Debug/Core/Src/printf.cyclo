@@ -1,0 +1,2 @@
+printf.c:3:1:__io_putchar	1
+printf.c:10:1:__io_getchar	1
